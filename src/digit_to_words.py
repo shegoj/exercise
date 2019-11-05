@@ -35,8 +35,10 @@ class DigitsTranslation ():
         12: 'Twelve',
         13: 'Thirteen',
         15: 'Fifteen',
+        18: 'Eighteen'
         20: 'Twenty ',
-        40: 'Forty '
+        40: 'Forty ',
+        80: 'Eighty'
     }
 
     TEEN_SUFFIX = 'teen'

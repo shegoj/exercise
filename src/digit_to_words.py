@@ -36,8 +36,8 @@ class DigitsTranslation ():
         13: 'Thirteen',
         15: 'Fifteen',
         18: 'Eighteen',
-        20: 'Twenty',
-        40: 'Forty',
+        20: 'Twenty ',
+        40: 'Forty ',
         80: 'Eighty'
     }
 
